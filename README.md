@@ -1,1 +1,1 @@
-# Home-Food-Tracker-IA
+# Home Food Tracker IA
